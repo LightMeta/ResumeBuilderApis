@@ -1,6 +1,6 @@
 # ResumeBuilderApis
 
-KINDLY GO THROUGH THE DOC OR https://drive.google.com/file/d/1vNOFlKPA-qin1E2XUYt2yzEeJajZOobw/view?usp=sharing IN CASE OF DOUBTS.
+KINDLY GO THROUGH THE DOC.
 
 Backend for building resume for candidates
 ```shellscript
